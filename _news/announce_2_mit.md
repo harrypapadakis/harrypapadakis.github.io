@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-03-01   # placeholder — update to your admit-decision date
+date: 2026-02-24
 inline: true
 related_posts: false
 ---

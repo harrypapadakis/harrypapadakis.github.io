@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-01   # placeholder — arXiv ID 2510.15949 suggests Oct 2025, update to exact date
+date: 2025-10-10
 inline: true
 related_posts: false
 ---

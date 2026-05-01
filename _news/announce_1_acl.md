@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-04-01   # placeholder — update to the actual acceptance date
+date: 2026-04-06
 inline: true
 related_posts: false
 ---

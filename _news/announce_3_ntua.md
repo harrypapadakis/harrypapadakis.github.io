@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-11-01   # placeholder — update to your defense/graduation date
+date: 2025-11-06
 inline: true
 related_posts: false
 ---
