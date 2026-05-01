@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be joining the [MIT Operations Research Center](https://orc.mit.edu/) this fall, working with [Prof. Dimitris Bertsimas](https://www.mit.edu/~dbertsim/).
+I'll be joining the [MIT Operations Research Center](https://orc.mit.edu/) this fall, working with [Prof. Dimitris Bertsimas](https://dbertsim.mit.edu/).

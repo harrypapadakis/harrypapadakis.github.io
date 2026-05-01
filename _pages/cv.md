@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-description: Last updated May 2026. <a href="/assets/pdf/CV_Papadakis.pdf">Download as PDF</a>.
+nav_order: 4
+description: Last updated May 2026.
+cv_pdf: /assets/pdf/CV_Papadakis.pdf
 ---
-
-<embed src="/assets/pdf/CV_Papadakis.pdf" type="application/pdf" width="100%" height="900px" style="border: 1px solid var(--global-divider-color); border-radius: 6px;" />
