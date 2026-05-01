@@ -19,7 +19,7 @@ cv:
         area: Operations Research (MIT ORC)
         studyType: PhD
         start_date: 2026
-        end_date: Present
+        end_date: 2031 (expected)
         highlights:
           - "Advisor: Prof. Dimitris Bertsimas"
 
@@ -32,14 +32,14 @@ cv:
         end_date: 2025
         score: "9.77/10.0 — Class Rank 5th"
         highlights:
-          - 'Diploma Thesis (Grade 10/10): "Adaptive Multi-Agent LLM Systems for Financial Trading: A Framework for Realistic Simulation and Dynamic Prompt Optimization"'
+          - 'Diploma Thesis: "Adaptive Multi-Agent LLM Systems for Financial Trading: A Framework for Realistic Simulation and Dynamic Prompt Optimization"'
           - "Supervisor: Prof. Giorgos Stamou"
 
     Experience:
       - company: Veltiston AI
         position: AI Software Engineer
         location: Athens, Greece
-        start_date: 2025-05
+        start_date: May 2025
         end_date: Present
         highlights:
           - Designed an agentic RAG system for document analysis, deployed as a Microsoft Word add-in; coordinated multi-step retrieval over external document corpora with grounded citation generation.
@@ -49,16 +49,16 @@ cv:
       - company: Netcompany–Intrasoft
         position: Software Engineering Intern
         location: Athens, Greece
-        start_date: 2024-07
-        end_date: 2024-09
+        start_date: Jul 2024
+        end_date: Sep 2024
         highlights:
           - Contributed to backend services for the Austrian Customs Clearance System, a large-scale public-sector software project.
 
       - company: RiverTech
         position: AI Engineering Intern
         location: Athens, Greece
-        start_date: 2023-07
-        end_date: 2023-09
+        start_date: Jul 2023
+        end_date: Sep 2023
         highlights:
           - Developed machine learning models on IoT smart-home data for behavioral pattern recognition, supporting energy optimization research.
 
@@ -88,9 +88,6 @@ cv:
         releaseDate: 2025
         url: https://arxiv.org/abs/2507.09255
         summary: A high-fidelity, dual-mode simulation environment for reproducible evaluation of LLM agent strategies and behavior under realistic order flows.
-
-    Teaching:
-      - bullet: "**National Technical University of Athens — School of ECE** (Athens, Greece, Feb 2022 – May 2022). Undergraduate Teaching Assistant. Supported *Introduction to Programming* and *Programming Techniques*: led C++ lab sessions and gave feedback on student assignments."
 
     Skills:
       - name: Programming
