@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV_Papadakis.pdf # path to your CV PDF file
+email: harrypapadakis02@gmail.com # update to MIT email when issued
+github_username: harrypapa2002
+linkedin_username: harry-papadakis
+# scholar_userid:    # uncomment and fill once Google Scholar profile is created
+# orcid_id:          # optional but recommended (orcid.org takes 5 minutes)
+rss_icon: true # comment this line to hide the RSS icon
