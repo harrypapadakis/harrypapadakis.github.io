@@ -71,9 +71,9 @@ cv:
           - Maria Lymperaiou
           - Konstantinos Thomas
           - Giorgos Stamou
-        publisher: ACL 2026 (Main Conference)
+        publisher: Preprint
         releaseDate: 2026
-        url: https://arxiv.org/abs/2510.15949v3
+        url: https://arxiv.org/abs/2510.15949
         summary: An adaptive prompt-optimization framework that improves coordination and decision quality among LLM-based trading agents in dynamic markets.
 
       - title: "StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets"
@@ -84,7 +84,7 @@ cv:
           - Maria Lymperaiou
           - Konstantinos Thomas
           - Giorgos Stamou
-        publisher: Preprint (planned EMNLP 2026 System Demonstrations)
+        publisher: Preprint
         releaseDate: 2025
         url: https://arxiv.org/abs/2507.09255
         summary: A high-fidelity, dual-mode simulation environment for reproducible evaluation of LLM agent strategies and behavior under realistic order flows.

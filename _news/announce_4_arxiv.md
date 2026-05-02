@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ATLAS preprint now available: [arXiv:2510.15949v3](https://arxiv.org/abs/2510.15949v3).
+ATLAS preprint now available: [arXiv:2510.15949](https://arxiv.org/abs/2510.15949).
